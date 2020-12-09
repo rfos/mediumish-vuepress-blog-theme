@@ -14,3 +14,5 @@ fields:
   label: description
 pages:
 - docs/about.md
+- docs/about.md
+- docs/my-work.md
